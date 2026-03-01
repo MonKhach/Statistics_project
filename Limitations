@@ -1,0 +1,3 @@
+-This analysis is associational and based only on available dataset features.
+-BMI was simplified into two groups, which reduces detail.
+-Regression assumptions may not perfectly hold for all variables.
